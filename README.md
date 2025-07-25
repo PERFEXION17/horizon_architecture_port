@@ -36,6 +36,12 @@ git clone https://github.com/PERFEXION17/horizon_architecture_port.git
 
 ## Screenshots
 
+### Mobile
+
 ![Mobile](asset/iphone%2012-13.png)
+
+### Tablet
 ![Tablet](asset/ipad.png)
+
+### PC
 ![Laptop](asset/laptop.png)
