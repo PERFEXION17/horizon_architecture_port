@@ -282,6 +282,10 @@ footer{
         padding-top: 5rem;
     }
 
+    .hero_txt h1{
+        font-size: 4rem;
+    }
+
     .project_box {
         padding: 2rem 0;
         flex-direction: row;
